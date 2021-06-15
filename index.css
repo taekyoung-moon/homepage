@@ -1,4 +1,4 @@
-*{
+* {
   font-family: 'Noto Sans KR', sans-serif;
   list-style: none;
   text-decoration: none;
@@ -8,18 +8,18 @@
   color: black;
 }
 
-.header{
-    display: flex;
-    width: 1280px;
-    margin: auto;
-    background: gray;
-    height: 86px;
+.header {
+  display: flex;
+  width: 1280px;
+  margin: auto;
+  background: gray;
+  height: 86px;
 }
 
-.nav{
-    display: flex;
+.nav {
+  display: flex;
 }
 
-.nav > li{
-    margin-left: 100px;
+.nav > li {
+  margin-left: 100px;
 }
